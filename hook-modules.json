@@ -1,7 +1,12 @@
 [
   {
-    "name": "TokenGatedHook",
-    "address": "0x4C4211CDDb2Afe335D63EBA6138D743d2af81ccf",
-    "blockExplorerLink": "https://sepolia.etherscan.io/address/0x4C4211CDDb2Afe335D63EBA6138D743d2af81ccf#code"
+    "name": "LockLicenseHook",
+    "address": "0x5D874d4813c4A8A9FB2AB55F30cED9720AEC0222",
+    "blockExplorerLink": "https://www.storyscan.io/address/0x5D874d4813c4A8A9FB2AB55F30cED9720AEC0222?tab=contract"
+  },
+  {
+    "name": "TotalLicenseTokenLimitHook",
+    "address": "0xB72C9812114a0Fc74D49e01385bd266A75960Cda",
+    "blockExplorerLink": "https://www.storyscan.io/address/0xB72C9812114a0Fc74D49e01385bd266A75960Cda?tab=contract"
   }
 ]
