@@ -3,5 +3,10 @@
     "name": "TokenGatedHook",
     "address": "0x4C4211CDDb2Afe335D63EBA6138D743d2af81ccf",
     "blockExplorerLink": "https://sepolia.etherscan.io/address/0x4C4211CDDb2Afe335D63EBA6138D743d2af81ccf#code"
+  },
+  {
+    "name": "IPUSDPricingHook",
+    "address": "0x72ae893035c7a3a810ac029a5d785b7a849cef19",
+    "blockExplorerLink": "https://aeneid.storyscan.io/address/0x72ae893035c7a3a810ac029a5d785b7a849cef19?tab=contract"
   }
 ]
