@@ -1,6 +1,6 @@
 # Story Registered Modules
 
-Welcome to the repository for Story's registered modules. This repository serves as a comprehensive list of both `default modules` and `hook modules` that are verified and safe for use within the Story ecosystem. We encourage contributions and invite module developers to submit their modules for registration.
+Welcome to the repository for Story's registered modules. This repository serves as a comprehensive list of both `core modules` and `hook modules` that are verified and safe for use within the Story ecosystem. We encourage contributions and invite module developers to submit their modules for registration.
 
 ## Steps to Register Your Module
 

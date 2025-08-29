@@ -1,0 +1,14 @@
+[
+  {
+    "name": "LockLicenseHook",
+    "address": "0x54C52990dA304643E7412a3e13d8E8923cD5bfF2",
+    "blockExplorerLink": "https://aeneid.storyscan.io/address/0x54C52990dA304643E7412a3e13d8E8923cD5bfF2?tab=contract",
+    "whitelisted": true
+  },
+  {
+    "name": "TotalLicenseTokenLimitHook",
+    "address": "0xaBAD364Bfa41230272b08f171E0Ca939bD600478",
+    "blockExplorerLink": "https://aeneid.storyscan.io/address/0xaBAD364Bfa41230272b08f171E0Ca939bD600478?tab=contract",
+    "whitelisted": true
+  }
+]
