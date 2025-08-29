@@ -1,6 +1,9 @@
 # Story Registered Modules
 
-Welcome to the repository for Story's registered modules. This repository serves as a comprehensive list of both `core modules` and `hook modules` that are verified and safe for use within the Story ecosystem. We encourage contributions and invite module developers to submit their modules for registration.
+Welcome to the repository for Story's registered modules. This repository serves as a comprehensive list of both `core-modules` and `hook-modules` that are verified and safe for use within the Story ecosystem. We encourage contributions and invite module developers to submit their modules for registration.
+
+- **Core Modules** can be found [here](https://github.com/storyprotocol/protocol-core-v1/tree/main/contracts/modules).
+- **Hook Modules** can be found [here](https://github.com/storyprotocol/protocol-periphery-v1/tree/main/contracts/hooks).
 
 ## Steps to Register Your Module
 
@@ -14,7 +17,8 @@ To get your module verified and listed in this repository, please follow these s
    {
      "name": "YourModuleName",
      "address": "YourModuleAddress",
-     "blockExplorerLink": "YourModuleBlockExplorerLink"
+     "blockExplorerLink": "YourModuleBlockExplorerLink",
+     "whitelisted": false
    }
    ```
 
@@ -26,7 +30,8 @@ To get your module verified and listed in this repository, please follow these s
    {
      "name": "TotalLicenseTokenLimitHook",
      "address": "0xB72C9812114a0Fc74D49e01385bd266A75960Cda",
-     "blockExplorerLink": "https://www.storyscan.io/address/0xB72C9812114a0Fc74D49e01385bd266A75960Cda?tab=contract"
+     "blockExplorerLink": "https://www.storyscan.io/address/0xB72C9812114a0Fc74D49e01385bd266A75960Cda?tab=contract",
+     "whitelisted": false
    }
    ```
 
