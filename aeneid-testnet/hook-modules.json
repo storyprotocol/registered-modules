@@ -10,5 +10,11 @@
     "address": "0xaBAD364Bfa41230272b08f171E0Ca939bD600478",
     "blockExplorerLink": "https://aeneid.storyscan.io/address/0xaBAD364Bfa41230272b08f171E0Ca939bD600478?tab=contract",
     "whitelisted": true
+  },
+  {
+    "name": "IPUSDPriceHook",
+    "address": "0x14dd2b86137ef09806980fbeda4cd11cfc466d59",
+    "blockExplorerLink": "https://aeneid.storyscan.io/address/0x14dd2b86137ef09806980fbeda4cd11cfc466d59?tab=contract",
+    "whitelisted": false
   }
 ]
