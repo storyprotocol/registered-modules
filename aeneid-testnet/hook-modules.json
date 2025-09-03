@@ -16,11 +16,5 @@
     "address": "0x14dd2b86137ef09806980fbeda4cd11cfc466d59",
     "blockExplorerLink": "https://aeneid.storyscan.io/address/0x14dd2b86137ef09806980fbeda4cd11cfc466d59?tab=contract",
     "whitelisted": false
-  },
-  {
-    "name": "WhitelistHook",
-    "address": "0x57b9c68bc0de0285a72218897ac5b2b4b6dbadf4",
-    "blockExplorerLink": "https://aeneid.storyscan.io/address/0x57b9c68bc0de0285a72218897ac5b2b4b6dbadf4?tab=contract",
-    "whitelisted": false
   }
 ]
