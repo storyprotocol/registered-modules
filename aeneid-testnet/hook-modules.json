@@ -18,9 +18,9 @@
     "whitelisted": false
   },
   {
-    "name": "WhitelistHook",
-    "address": "0x57b9c68bc0de0285a72218897ac5b2b4b6dbadf4",
-    "blockExplorerLink": "https://aeneid.storyscan.io/address/0x57b9c68bc0de0285a72218897ac5b2b4b6dbadf4?tab=contract",
+    "name": "LicenseCallerWhitelistHook",
+    "address": "0x37be56d9fb06d885cda3cb010096c94c28b4d658",
+    "blockExplorerLink": "https://aeneid.storyscan.io/address/0x37be56d9fb06d885cda3cb010096c94c28b4d658?tab=contract",
     "whitelisted": false
   }
 ]
