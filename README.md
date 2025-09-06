@@ -17,8 +17,7 @@ To get your module verified and listed in this repository, please follow these s
    {
      "name": "YourModuleName",
      "address": "YourModuleAddress",
-     "blockExplorerLink": "YourModuleBlockExplorerLink",
-     "whitelisted": false
+     "blockExplorerLink": "YourModuleBlockExplorerLink"
    }
    ```
 
@@ -30,8 +29,7 @@ To get your module verified and listed in this repository, please follow these s
    {
      "name": "TotalLicenseTokenLimitHook",
      "address": "0xB72C9812114a0Fc74D49e01385bd266A75960Cda",
-     "blockExplorerLink": "https://www.storyscan.io/address/0xB72C9812114a0Fc74D49e01385bd266A75960Cda?tab=contract",
-     "whitelisted": false
+     "blockExplorerLink": "https://www.storyscan.io/address/0xB72C9812114a0Fc74D49e01385bd266A75960Cda?tab=contract"
    }
    ```
 
