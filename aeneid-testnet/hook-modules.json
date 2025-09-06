@@ -12,12 +12,6 @@
     "whitelisted": true
   },
   {
-    "name": "IPUSDPriceHook",
-    "address": "0x14dd2b86137ef09806980fbeda4cd11cfc466d59",
-    "blockExplorerLink": "https://aeneid.storyscan.io/address/0x14dd2b86137ef09806980fbeda4cd11cfc466d59?tab=contract",
-    "whitelisted": false
-  },
-  {
     "name": "LicenseCallerWhitelistHook",
     "address": "0x37be56d9fb06d885cda3cb010096c94c28b4d658",
     "blockExplorerLink": "https://aeneid.storyscan.io/address/0x37be56d9fb06d885cda3cb010096c94c28b4d658?tab=contract",
