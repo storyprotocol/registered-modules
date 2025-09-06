@@ -35,6 +35,6 @@ To get your module verified and listed in this repository, please follow these s
 
 3. **Create a Pull Request (PR)**: Once you have added your module, create a pull request against this repository. Utilize the provided PR template to ensure all necessary information is included.
 
-4. **Await Verification**: After your PR is submitted, it will be reviewed. Upon approval and merging of your PR, your module will be officially registered and recognized as safe for use within the Story community.
+4. **Await Verification**: After your PR is submitted, it will be reviewed. Once a security audit has been performed and completed, and the module whitelisted into the protocol, the PR will be merged. At this point your module will be officially registered and recognized as safe for use within the Story community.
 
 We look forward to seeing your contributions and expanding the Story module ecosystem!
