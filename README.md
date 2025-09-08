@@ -49,19 +49,19 @@ To get your hook/module verified and listed in this repository, please follow th
 
 4. **Create a Pull Request (PR)**: Once you have added your module, create a pull request against this repository. In your PR's description, add the following information:
 
-```md
-## Register my module
+   ```md
+   ## Register my module
 
-- Module type: `hook`
-- Module name: `LicenseCallerWhitelistHook`
-- Aeneid Module address: `0x37be56d9fb06d885cda3cb010096c94c28b4d658`
-- Mainnet Module address: `0x6d9d51a444c8318e8840e75dab7ed81b5a714610`
-- My module is immutable: yes
-- My module is using an upgradeable proxy: no
-- My module has been verified on the block explorer: yes
-- Summary of my module: Hook for allowing a licensor to gate which addresses can mint a license. The licensor can add/remove an address at any time.
-- GitHub repository with source code and tests: https://github.com/jacob-tucker/license-caller-whitelist-hook
-```
+   - Module type: `hook`
+   - Module name: `LicenseCallerWhitelistHook`
+   - Aeneid Module address: `0x37be56d9fb06d885cda3cb010096c94c28b4d658`
+   - Mainnet Module address: `0x6d9d51a444c8318e8840e75dab7ed81b5a714610`
+   - My module is immutable: yes
+   - My module is using an upgradeable proxy: no
+   - My module has been verified on the block explorer: yes
+   - Summary of my module: Hook for allowing a licensor to gate which addresses can mint a license. The licensor can add/remove an address at any time.
+   - GitHub repository with source code and tests: https://github.com/jacob-tucker/license-caller-whitelist-hook
+   ```
 
 5. **Await Verification**: After your PR is submitted, it will be reviewed. Once a security audit has been performed and completed, and the module whitelisted into the protocol, the PR will be merged. At this point your module will be officially registered and recognized as safe for use within the Story community.
 
