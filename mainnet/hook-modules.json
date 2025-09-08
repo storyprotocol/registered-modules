@@ -8,5 +8,10 @@
     "name": "TotalLicenseTokenLimitHook",
     "address": "0xB72C9812114a0Fc74D49e01385bd266A75960Cda",
     "blockExplorerLink": "https://www.storyscan.io/address/0xB72C9812114a0Fc74D49e01385bd266A75960Cda?tab=contract"
+  },
+  {
+    "name": "LicenseCallerWhitelistHook",
+    "address": "0x6d9d51a444c8318e8840e75dab7ed81b5a714610",
+    "blockExplorerLink": "https://www.storyscan.io/address/0x6d9d51a444c8318e8840e75dab7ed81b5a714610?tab=contract"
   }
 ]
