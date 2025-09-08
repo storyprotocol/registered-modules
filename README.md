@@ -16,8 +16,14 @@ To get your module verified and listed in this repository, please follow these s
    ```json
    {
      "name": "YourModuleName",
-     "address": "YourModuleAddress",
-     "blockExplorerLink": "YourModuleBlockExplorerLink"
+     "aeneid": {
+       "address": "YourModuleAddress",
+       "blockExplorerLink": "YourModuleBlockExplorerLink"
+     },
+     "mainnet": {
+       "address": "YourModuleAddress",
+       "blockExplorerLink": "YourModuleBlockExplorerLink"
+     }
    }
    ```
 
@@ -28,8 +34,14 @@ To get your module verified and listed in this repository, please follow these s
    ```json
    {
      "name": "TotalLicenseTokenLimitHook",
-     "address": "0xB72C9812114a0Fc74D49e01385bd266A75960Cda",
-     "blockExplorerLink": "https://www.storyscan.io/address/0xB72C9812114a0Fc74D49e01385bd266A75960Cda?tab=contract"
+     "aeneid": {
+       "address": "0xaBAD364Bfa41230272b08f171E0Ca939bD600478",
+       "blockExplorerLink": "https://aeneid.storyscan.io/address/0xaBAD364Bfa41230272b08f171E0Ca939bD600478?tab=contract"
+     },
+     "mainnet": {
+       "address": "0xB72C9812114a0Fc74D49e01385bd266A75960Cda",
+       "blockExplorerLink": "https://www.storyscan.io/address/0xB72C9812114a0Fc74D49e01385bd266A75960Cda?tab=contract"
+     }
    }
    ```
 
