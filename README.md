@@ -13,7 +13,7 @@ To get your hook/module verified and listed in this repository, please follow th
 
 2. **Fork this Repository**: Fork this `registered-modules` repository to your own GitHub account.
 
-3. **Update the Module List**: Add your module's details to the appropriate JSON file according to module types in the repository. Make sure to deploy your hook on both aeneid and mainnet. Ensure that you adhere to the following JSON structure:
+3. **Update the Module List**: Add your module's details to the appropriate JSON file according to module types in the repository. Make sure to **deploy & verify on block explorer** your hook on both aeneid and mainnet. Ensure that you adhere to the following JSON structure:
 
    ```json
    {
@@ -58,7 +58,7 @@ To get your hook/module verified and listed in this repository, please follow th
    - Mainnet Module address: `0x6d9d51a444c8318e8840e75dab7ed81b5a714610`
    - My module is immutable: yes
    - My module is using an upgradeable proxy: no
-   - My module has been verified on the block explorer: yes
+   - My module has been verified on the block explorer (required): yes
    - Summary of my module: Hook for allowing a licensor to gate which addresses can mint a license. The licensor can add/remove an address at any time.
    - GitHub repository with source code and tests: https://github.com/jacob-tucker/license-caller-whitelist-hook
    ```
