@@ -1,7 +1,35 @@
 [
   {
-    "name": "TokenGatedHook",
-    "address": "0x4C4211CDDb2Afe335D63EBA6138D743d2af81ccf",
-    "blockExplorerLink": "https://sepolia.etherscan.io/address/0x4C4211CDDb2Afe335D63EBA6138D743d2af81ccf#code"
+    "name": "LockLicenseHook",
+    "aeneid": {
+      "address": "0x54C52990dA304643E7412a3e13d8E8923cD5bfF2",
+      "blockExplorerLink": "https://aeneid.storyscan.io/address/0x54C52990dA304643E7412a3e13d8E8923cD5bfF2?tab=contract"
+    },
+    "mainnet": {
+      "address": "0x5D874d4813c4A8A9FB2AB55F30cED9720AEC0222",
+      "blockExplorerLink": "https://www.storyscan.io/address/0x5D874d4813c4A8A9FB2AB55F30cED9720AEC0222?tab=contract"
+    }
+  },
+  {
+    "name": "TotalLicenseTokenLimitHook",
+    "aeneid": {
+      "address": "0xaBAD364Bfa41230272b08f171E0Ca939bD600478",
+      "blockExplorerLink": "https://aeneid.storyscan.io/address/0xaBAD364Bfa41230272b08f171E0Ca939bD600478?tab=contract"
+    },
+    "mainnet": {
+      "address": "0xB72C9812114a0Fc74D49e01385bd266A75960Cda",
+      "blockExplorerLink": "https://www.storyscan.io/address/0xB72C9812114a0Fc74D49e01385bd266A75960Cda?tab=contract"
+    }
+  },
+  {
+    "name": "LicenseCallerWhitelistHook",
+    "aeneid": {
+      "address": "0x37be56d9fb06d885cda3cb010096c94c28b4d658",
+      "blockExplorerLink": "https://aeneid.storyscan.io/address/0x37be56d9fb06d885cda3cb010096c94c28b4d658?tab=contract"
+    },
+    "mainnet": {
+      "address": "0x6d9d51a444c8318e8840e75dab7ed81b5a714610",
+      "blockExplorerLink": "https://www.storyscan.io/address/0x6d9d51a444c8318e8840e75dab7ed81b5a714610?tab=contract"
+    }
   }
 ]
