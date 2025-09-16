@@ -11,6 +11,8 @@ To get your hook/module verified and listed in this repository, please follow th
 
 1. **Develop your Hook**: You may fork [this template repository](https://github.com/storyprotocol/hook-dev-template) to bootstrap your development. It includes an example hook with tests against our Aeneid protocol, but using it is optional.
 
+   👉 See [license-caller-whitelist-hook](https://github.com/jacob-tucker/license-caller-whitelist-hook) as an example that was used to develop the `LicenseCallerWhitelistHook.sol` hook.
+
 2. **Fork this Repository**: Fork this `registered-modules` repository to your own GitHub account.
 
 3. **Update the Module List**: Add your module's details to the appropriate JSON file according to module types in the repository. Make sure to **deploy & verify on block explorer** your hook on both aeneid and mainnet. Ensure that you adhere to the following JSON structure:
