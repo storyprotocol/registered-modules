@@ -9,7 +9,7 @@ Welcome to the repository for Story's registered modules. This repository serves
 
 To get your hook/module verified and listed in this repository, please follow these steps:
 
-1. **Develop your Hook**: Fork this [this template repository](https://github.com/storyprotocol/hook-dev-template) and begin developing your hook. It already includes an example hook with tests against our Aeneid protocol.
+1. **Develop your Hook**: You may fork [this template repository](https://github.com/storyprotocol/hook-dev-template) to bootstrap your development. It includes an example hook with tests against our Aeneid protocol, but using it is optional.
 
 2. **Fork this Repository**: Fork this `registered-modules` repository to your own GitHub account.
 
