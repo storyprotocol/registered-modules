@@ -24,12 +24,12 @@
   {
     "name": "LicenseCallerWhitelistHook",
     "aeneid": {
-      "address": "0x37be56d9fb06d885cda3cb010096c94c28b4d658",
-      "blockExplorerLink": "https://aeneid.storyscan.io/address/0x37be56d9fb06d885cda3cb010096c94c28b4d658?tab=contract"
+      "address": "0x3f7984e0f726bdf082b1e4bdce25214fefa7a661",
+      "blockExplorerLink": "https://aeneid.storyscan.io/address/0x3f7984e0f726bdf082b1e4bdce25214fefa7a661?tab=contract"
     },
     "mainnet": {
-      "address": "0x6d9d51a444c8318e8840e75dab7ed81b5a714610",
-      "blockExplorerLink": "https://www.storyscan.io/address/0x6d9d51a444c8318e8840e75dab7ed81b5a714610?tab=contract"
+      "address": "0x57db9d53cf13edf1f7ba59c7905a02033ca88dc6",
+      "blockExplorerLink": "https://www.storyscan.io/address/0x57db9d53cf13edf1f7ba59c7905a02033ca88dc6?tab=contract"
     }
   }
 ]
